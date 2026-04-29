@@ -176,6 +176,7 @@
       "paths": [
         "skills/clickhouse-io",
         "skills/database-migrations",
+        "skills/dbt-workflows",
         "skills/jpa-patterns",
         "skills/postgres-patterns"
       ],
